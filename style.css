@@ -1,0 +1,55 @@
+/* CSS */
+body {
+    background-color: #222;
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+  }
+  
+  .number {
+    font-size: 10rem;
+    color: #222;
+    background-color: #fff;
+    width: 15rem;
+    border-radius: 50%;
+    margin: 0 auto;
+  }
+  
+  .message {
+    font-size: 2rem;
+    margin: 20px;
+  }
+  
+  .score {
+    font-size: 2rem;
+  }
+  
+  .guess {
+    width: 20%;
+    padding: 10px;
+    font-size: 1.5rem;
+  }
+  
+  .check, .again {
+    padding: 10px 20px;
+    font-size: 1.5rem;
+    margin: 10px;
+    cursor: pointer;
+  }
+  
+  .again {
+    background-color: #60b347;
+    color: #fff;
+    border: none;
+  }
+  
+  .check {
+    background-color: #222;
+    color: #fff;
+    border: none;
+  }
+  
+  .highscore {
+    font-size: 2rem;
+  }
+  
